@@ -1,6 +1,6 @@
 # CO2_Emission_Model
 
-[CO2_Emission_Contribution_Model Dashboard] (https://public.tableau.com/app/profile/gaurav.joshi2239/viz/CO2_Emission_Contribution_ModelDashboard) 
+[CO2_Emission_Contribution_Model Dashboard](https://public.tableau.com/app/profile/gaurav.joshi2239/viz/CO2_Emission_Contribution_ModelDashboard) 
 
 Objective:
 To create a prediction model from global sustainable data, consisting of data related to different sources of electricity and other factors related to energy consumptions and access. The aim is to find which country has what percentage contribution in total CO2 emissions. For a country's percentage contribution, it can be calculated as the country's CO2 emissions in kt divided by the total global CO2 emissions.
